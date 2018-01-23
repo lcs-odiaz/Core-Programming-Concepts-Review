@@ -18,7 +18,20 @@
  
  */
 // Answer question 2 below
+var numberOfCommits = 69
+print ("this is a variable because the # of commits will change depending on the user")
 
+var numberOfForks = 321
+print ("this is a variable because the # of forks will change depending on the user")
+
+let yearCreated = 2018
+print ("this is a constant because the year it was created will never change")
+
+let monthCreated = 12
+print ("this is a constant because the month it was created will never change")
+
+let dayCreated = 12
+print ("this is a constant because the day it was created will never change")
 /*:
  ## Now share your understanding
  
