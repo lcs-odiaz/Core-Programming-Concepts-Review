@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/russellgordon/Downloads/Core-Programming-Concepts-Review/Core-Programming-Concepts-Review.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>
